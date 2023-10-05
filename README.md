@@ -23,10 +23,10 @@ encuentran dentro de un servidor.
 
 |Aplicaciones|Visto|
 |:-----------------------:|------|
-|Google Docs|![Imagen que indica visto](https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.m.wikipedia.org%2Fwiki%2FArchivo%3AGreen_tick.svg&psig=AOvVaw0dVo2o3ViuwhL7MuGLGV0D&ust=1696506796355000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNizobmq3IEDFQAAAAAdAAAAABAE)|
-|Google Slides|![Imagen que indica visto](https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.m.wikipedia.org%2Fwiki%2FArchivo%3AGreen_tick.svg&psig=AOvVaw0dVo2o3ViuwhL7MuGLGV0D&ust=1696506796355000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNizobmq3IEDFQAAAAAdAAAAABAE)|
-|Google Sheets|![Imagen que indica visto](https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.m.wikipedia.org%2Fwiki%2FArchivo%3AGreen_tick.svg&psig=AOvVaw0dVo2o3ViuwhL7MuGLGV0D&ust=1696506796355000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNizobmq3IEDFQAAAAAdAAAAABAE)|
-|Google Calendar|[Imagen de calendario](https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wordpress.)|org%2Fplugins%2Fevents-calendar-for-google%2F&psig=AOvVaw3TiDGm7XoKqcghKPPSOMA_&ust=1696506903483000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCICNyu-q3IEDFQAAAAAdAAAAABAD)|
+|Google Docs|![Imagen que indica visto](https://github.com/alejandr2004/Ejercicio-1/blob/main/b.PNG)|
+|Google Slides|![Imagen que indica visto](https://github.com/alejandr2004/Ejercicio-1/blob/main/b.PNG)|
+|Google Sheets|![Imagen que indica visto](https://github.com/alejandr2004/Ejercicio-1/blob/main/b.PNG)|
+|Google Calendar|[Imagen de calendario](https://github.com/alejandr2004/Ejercicio-1/blob/main/b.PNG)|
 |Google Meet|[Imagen de meet]()
 
 
