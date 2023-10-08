@@ -1,6 +1,7 @@
 # Ejercicio-1
 Primer ejercicio de github de Alejandro González
 
+ 
 1.¿Qué es una página web?
 
 \\Es un lugar que nos da acceso a diversos archivos e información gracias a una red. Loa archivos se representan con un lenguaje de programación (CSS,
@@ -36,7 +37,7 @@ encuentran dentro de un servidor.
 6.¿Qué es HTML ?
 
 \\El Lenguaje de Marcado de Hipertexto (HTML) es el código que nos permite modificar, estructurar o desplegar una página web con sus propios contenidos.
-```html
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -49,16 +50,7 @@ encuentran dentro de un servidor.
 
 </body>
 </html>
-\```
-
-
-
-
-
-
-
-
-
+```
 7.¿Qué es CSS?
 
 \\Es un lenguaje front-end, es decir, sirve para modificar el interfaz visual de una página web.
