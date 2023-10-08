@@ -23,11 +23,11 @@ encuentran dentro de un servidor.
 
 |Aplicaciones|Visto|
 |:-----------------------:|------|
-|Google Docs|![Imagen que indica visto](https://github.com/alejandr2004/Ejercicio-1/blob/main/b.PNG)|
-|Google Slides|![Imagen que indica visto](https://github.com/alejandr2004/Ejercicio-1/blob/main/b.PNG)|
-|Google Sheets|![Imagen que indica visto](https://github.com/alejandr2004/Ejercicio-1/blob/main/b.PNG)|
-|Google Calendar|[Imagen de calendario](https://github.com/alejandr2004/Ejercicio-1/blob/main/b.PNG)|
-|Google Meet|[Imagen de meet]()
+|Google Docs|![Imagen que indica visto](https://github.com/alejandr2004/Ejercicio-1/blob/main/b.PNG "TICK")|
+|Google Slides|![Imagen que indica visto](https://github.com/alejandr2004/Ejercicio-1/blob/main/b.PNG "TICK")|
+|Google Sheets|![Imagen que indica visto](https://github.com/alejandr2004/Ejercicio-1/blob/main/b.PNG "TICK")|
+|Google Calendar|[Imagen de calendario](https://github.com/alejandr2004/Ejercicio-1/blob/main/b.PNG "TICK")|
+|Google Meet|[Imagen de meet](https://github.com/alejandr2004/Ejercicio-1/blob/main/b.PNG "TICK")
 
 
 
@@ -40,7 +40,7 @@ encuentran dentro de un servidor.
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8>
+    <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
