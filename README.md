@@ -26,8 +26,8 @@ encuentran dentro de un servidor.
 |Google Docs|![Imagen que indica visto](https://github.com/alejandr2004/Ejercicio-1/blob/main/b.PNG "TICK")|
 |Google Slides|![Imagen que indica visto](https://github.com/alejandr2004/Ejercicio-1/blob/main/b.PNG "TICK")|
 |Google Sheets|![Imagen que indica visto](https://github.com/alejandr2004/Ejercicio-1/blob/main/b.PNG "TICK")|
-|Google Calendar|[Imagen de calendario](https://github.com/alejandr2004/Ejercicio-1/blob/main/b.PNG "TICK")|
-|Google Meet|[Imagen de meet](https://github.com/alejandr2004/Ejercicio-1/blob/main/b.PNG "TICK")
+|Google Calendar|![Imagen de calendario](https://github.com/alejandr2004/Ejercicio-1/blob/main/b.PNG "TICK")|
+|Google Meet|![Imagen de meet](https://github.com/alejandr2004/Ejercicio-1/blob/main/b.PNG "TICK")|
 
 
 
@@ -36,7 +36,7 @@ encuentran dentro de un servidor.
 6.¿Qué es HTML ?
 
 \\El Lenguaje de Marcado de Hipertexto (HTML) es el código que nos permite modificar, estructurar o desplegar una página web con sus propios contenidos.
-
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -49,7 +49,7 @@ encuentran dentro de un servidor.
 
 </body>
 </html>
-
+\```
 
 
 
