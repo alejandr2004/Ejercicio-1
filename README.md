@@ -61,8 +61,11 @@ encuentran dentro de un servidor.
 \\El flujo de trabajo nos explica el proceso que ocurre para que un navegador web obtenga información de un servidor web a través de Internet. Para esto sigue una serie de pasos:
 
 -El navegador hace una solicitud al servidor web.
+
 -La petición se envía al servidor utilizando como medio Internet.
+
 -El servidor lee la solicitud y envía una respuesta en función de su programación.
+
 -La respuesta es transmitida al navegador.
 
 
